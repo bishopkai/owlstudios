@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          We are a small team of passionate web developers and designers who love to create beautiful and functional websites.
+          As a web designer and developer at Mr. Owl Studios, I'm driven by a profound passion for blending creativity and functionality, much like the wise owl crafting its unique vision. With a keen eye for detail, I specialize in curating visually stunning and highly functional websites, offering a personalized touch to every digital experience.
           </p>
           <div>
             <Link

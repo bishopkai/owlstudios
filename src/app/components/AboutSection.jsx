@@ -24,7 +24,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Learning via W3Schools</li>
-        <li>AANIIIH NAKODA COLLEGE, Fort Belknap</li>
+        <li>AS in CIS, Aaniiih Nakoda College, Fort Belknap</li>
       </ul>
     ),
   },
@@ -57,13 +57,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I am a Web Designer, Front-end Developer, and UX/UI Designer with expertise 
-          in HTML, CSS, JavaScript, Bootstrap, Next.js, and various other technologies. 
-          My focus is on creating visually appealing and user-friendly web experiences. 
-          I am dedicated to continuous learning and staying updated on industry trends to 
-          enhance my skill set and deliver exceptional web solutions. I am a quick learner 
-          and I am always looking to expand my knowledge and skill set. I am a team player 
-          and I am excited to work with others to create amazing applications.
+          In the realm of Mr. Owl Studios, I take on the roles of a Web Designer, Front-end Developer, and UX/UI Designer. Proficient in HTML, CSS, JavaScript, Bootstrap, Next.js, and a spectrum of other technologies, I am akin to the wise owl, weaving together a seamless blend of creativity and functionality. My primary focus lies in sculpting visually captivating and user-friendly web experiences, perpetually fueled by a commitment to continuous learning and staying attuned to industry trends. As a perpetual learner, I eagerly seek to broaden my knowledge and skill set, embracing collaboration with fellow enthusiasts to bring forth remarkable digital applications.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
